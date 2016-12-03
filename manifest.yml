@@ -3,6 +3,6 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: RobotCar_214631
-  host: RobotCar214631
+  name: IOTCar-214631
+  host: IOTCar-214631
   disk_quota: 1024M
